@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gyanendra
 - 👀 I’m interested in web development,Dsa,Databases
-- 🌱 I’m currently learning web development  and Java,cpp ,Dsa
+- 🌱 I’m currently learning web development Html, css, js, React js and Java,cpp ,Dsa
 - 💞️ I’m looking to collaborate on web development projects 
 
 
